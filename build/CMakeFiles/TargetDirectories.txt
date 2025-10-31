@@ -1,7 +1,0 @@
-/Users/ulirodriguez/CodeProjects/PH_Viz/build/CMakeFiles/glad.dir
-/Users/ulirodriguez/CodeProjects/PH_Viz/build/CMakeFiles/PH_Viz.dir
-/Users/ulirodriguez/CodeProjects/PH_Viz/build/CMakeFiles/copy_shaders.dir
-/Users/ulirodriguez/CodeProjects/PH_Viz/build/CMakeFiles/test_utils.dir
-/Users/ulirodriguez/CodeProjects/PH_Viz/build/CMakeFiles/test.dir
-/Users/ulirodriguez/CodeProjects/PH_Viz/build/CMakeFiles/edit_cache.dir
-/Users/ulirodriguez/CodeProjects/PH_Viz/build/CMakeFiles/rebuild_cache.dir
