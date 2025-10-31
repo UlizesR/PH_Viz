@@ -40,8 +40,8 @@
 # debug information files
 *.dwo
 
-.DS_Store
 build/
+.DS_Store
 .vscode/
 .py_cache/
 .clang-tidy
