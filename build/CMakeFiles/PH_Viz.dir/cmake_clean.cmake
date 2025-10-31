@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/PH_Viz.dir/_deps/imgui-src/backends/imgui_impl_glfw.cpp.o"
+  "CMakeFiles/PH_Viz.dir/_deps/imgui-src/backends/imgui_impl_glfw.cpp.o.d"
+  "CMakeFiles/PH_Viz.dir/_deps/imgui-src/backends/imgui_impl_opengl3.cpp.o"
+  "CMakeFiles/PH_Viz.dir/_deps/imgui-src/backends/imgui_impl_opengl3.cpp.o.d"
+  "CMakeFiles/PH_Viz.dir/_deps/imgui-src/imgui.cpp.o"
+  "CMakeFiles/PH_Viz.dir/_deps/imgui-src/imgui.cpp.o.d"
+  "CMakeFiles/PH_Viz.dir/_deps/imgui-src/imgui_demo.cpp.o"
+  "CMakeFiles/PH_Viz.dir/_deps/imgui-src/imgui_demo.cpp.o.d"
+  "CMakeFiles/PH_Viz.dir/_deps/imgui-src/imgui_draw.cpp.o"
+  "CMakeFiles/PH_Viz.dir/_deps/imgui-src/imgui_draw.cpp.o.d"
+  "CMakeFiles/PH_Viz.dir/_deps/imgui-src/imgui_tables.cpp.o"
+  "CMakeFiles/PH_Viz.dir/_deps/imgui-src/imgui_tables.cpp.o.d"
+  "CMakeFiles/PH_Viz.dir/_deps/imgui-src/imgui_widgets.cpp.o"
+  "CMakeFiles/PH_Viz.dir/_deps/imgui-src/imgui_widgets.cpp.o.d"
+  "CMakeFiles/PH_Viz.dir/src/Graphics/Culling/OcclusionCuller.cpp.o"
+  "CMakeFiles/PH_Viz.dir/src/Graphics/Culling/OcclusionCuller.cpp.o.d"
+  "CMakeFiles/PH_Viz.dir/src/Graphics/Model.cpp.o"
+  "CMakeFiles/PH_Viz.dir/src/Graphics/Model.cpp.o.d"
+  "CMakeFiles/PH_Viz.dir/src/Graphics/Renderer.cpp.o"
+  "CMakeFiles/PH_Viz.dir/src/Graphics/Renderer.cpp.o.d"
+  "CMakeFiles/PH_Viz.dir/src/Graphics/Scene.cpp.o"
+  "CMakeFiles/PH_Viz.dir/src/Graphics/Scene.cpp.o.d"
+  "CMakeFiles/PH_Viz.dir/src/Graphics/Shader.cpp.o"
+  "CMakeFiles/PH_Viz.dir/src/Graphics/Shader.cpp.o.d"
+  "CMakeFiles/PH_Viz.dir/src/Graphics/SpatialIndex.cpp.o"
+  "CMakeFiles/PH_Viz.dir/src/Graphics/SpatialIndex.cpp.o.d"
+  "CMakeFiles/PH_Viz.dir/src/Graphics/UI/Inspector.cpp.o"
+  "CMakeFiles/PH_Viz.dir/src/Graphics/UI/Inspector.cpp.o.d"
+  "CMakeFiles/PH_Viz.dir/src/Graphics/Utils.cpp.o"
+  "CMakeFiles/PH_Viz.dir/src/Graphics/Utils.cpp.o.d"
+  "CMakeFiles/PH_Viz.dir/src/main.cpp.o"
+  "CMakeFiles/PH_Viz.dir/src/main.cpp.o.d"
+  "PH_Viz"
+  "PH_Viz.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/PH_Viz.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
